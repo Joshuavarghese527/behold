@@ -14,5 +14,4 @@
 //= require bootstrap-sprockets
 //= require jquery_ujs
 //= require jquery.datetimepicker
-//= require bindWithDelay
 //= require_tree .

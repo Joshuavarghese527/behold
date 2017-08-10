@@ -176,7 +176,7 @@ DEPENDENCIES
   byebug
   coffee-rails (~> 4.2)
   devise
-  font-awesome-rails
+  font-awesome-rails (~> 4.7, >= 4.7.0.2)
   jbuilder (~> 2.5)
   jquery-datetimepicker-rails
   jquery-rails
