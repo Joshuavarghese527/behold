@@ -1,4 +1,5 @@
 Rails.application.routes.draw do
+  resources :prayers
   root to: 'home#front'
 
   devise_for :users,
